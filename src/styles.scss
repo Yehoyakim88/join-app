@@ -1,1 +1,91 @@
-/* You can add global styles to this file, and also import other style files */
+@import "./assets/fonts/fonts.scss";
+
+:root {
+    --royal-blue-bg: #0223CF;
+    --start-blue-bg: #4589FF;
+    --default-font: 'OpenSans';
+}
+
+.urgent-bg-color {
+    background-color: #FFD2D2;
+}
+
+.medium-bg-color {
+    background-color: #FFEBB9;
+}
+
+.pink-bg-color {
+    background-color: #FC71FF;
+}
+
+.darkmagenta-bg-color {
+    background-color: #CB02CF;
+}
+
+.magenta-bg-color {
+    background-color: #EE00D6;
+}
+
+.purple-bg-color {
+    background-color: #9327FF;
+    ;
+}
+
+.darkpurple-bg-color {
+    background-color: #462F8A;
+}
+
+.yellow-bg-color {
+    background-color: #FFC701;
+}
+
+.orange-bg-color {
+    background-color: #FFA800;
+    ;
+}
+
+.darkorange-bg-color {
+    background-color: #FF7A00;
+}
+
+.red-bg-color {
+    background-color: #FF4646;
+}
+
+.darkred-bg-color {
+    background-color: #AF1616;
+}
+
+.royal-blue-bg-color {
+    background-color: #0223CF;
+    ;
+}
+
+.blue-bg-color {
+    background-color: #4589FF;
+    ;
+}
+
+.blue2-bg-color {
+    background-color: #0190E0;
+}
+
+.mint-bg-color {
+    background-color: #1FD7C1;
+    ;
+}
+
+.turqoise-bg-color {
+    background-color: #32DAFF;
+    ;
+}
+
+.leafgreen-bg-color {
+    background-color: #4E963D;
+}
+
+.toxicgreen-bg-color {
+    background-color: #02CF2F;
+}
+
+
